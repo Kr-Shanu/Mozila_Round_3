@@ -1,0 +1,23 @@
+{
+  "name": "mozila_work",
+  "version": "1.0.0",
+  "description": "This is a signup page for adding password",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kr-Shanu/mozila_work.git"
+  },
+  "author": "Kumar Shanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kr-Shanu/mozila_work/issues"
+  },
+  "homepage": "https://github.com/Kr-Shanu/mozila_work#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1"
+  }
+}
