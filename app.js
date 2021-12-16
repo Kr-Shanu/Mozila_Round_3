@@ -23,7 +23,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // Thro
 app.get("/", function (req, res) {
     // User entered the main master location
-    res.sendFile(__dirname + "/tryme.html");
+    res.sendFile(__dirname + "/index.html");
 });
 
 
