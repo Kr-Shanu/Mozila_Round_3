@@ -39,7 +39,9 @@ This will be a sign up website using backend framework.
 
 
 ## Video demonstration on its working is shown below!!!
-https://user-images.githubusercontent.com/80747792/146379752-06fb4407-2272-4020-86e5-d115c59772ad.mov
+https://user-images.githubusercontent.com/80747792/146380747-25209beb-11ec-4832-9c6f-8fdb1a607055.mov
+
+
 
 
 
@@ -49,21 +51,23 @@ https://user-images.githubusercontent.com/80747792/146379752-06fb4407-2272-4020-
 ## Step by step pictorial guide:
 
 * step 1: the main index file will be displayed when we open the server after starting it , which looks like :
-<img width="1792" alt="Screenshot 2021-12-15 at 12 55 58 PM" src="https://user-images.githubusercontent.com/80747792/146142286-7ffefed0-91cc-4ad2-b8f4-59f99d3d18d0.png">
+<img width="898" alt="Screenshot 2021-12-16 at 7 00 44 PM" src="https://user-images.githubusercontent.com/80747792/146381249-d958e84d-71ce-4f8f-b436-f6bac2126521.png">
 
 
 
 * Step 2: We need to fill in the details and press sign in:
-<img width="1792" alt="Screenshot 2021-12-15 at 12 56 19 PM" src="https://user-images.githubusercontent.com/80747792/146142327-340a9067-9be8-458b-8425-5c0e0fbaa709.png">
+<img width="898" alt="Screenshot 2021-12-16 at 7 01 05 PM" src="https://user-images.githubusercontent.com/80747792/146381289-33a47a3e-a183-400c-bce6-a47170f8a87d.png">
 
 
 
 * Step 3: We will be directed to the success page;
-<img width="1792" alt="Screenshot 2021-12-15 at 12 56 25 PM" src="https://user-images.githubusercontent.com/80747792/146142374-099d0d85-5830-4e19-8e25-4b6540bb1a49.png">
+<img width="898" alt="Screenshot 2021-12-16 at 7 01 16 PM" src="https://user-images.githubusercontent.com/80747792/146381320-5b77636f-8678-435c-aaec-224808ac6d7a.png">
+
 
 
 * Step 4: We can refill the form which will redirect us to the host server again:
-<img width="1792" alt="Screenshot 2021-12-15 at 12 56 36 PM" src="https://user-images.githubusercontent.com/80747792/146142478-da12f961-5cd6-4711-989b-353362de0749.png">
+<img width="898" alt="Screenshot 2021-12-16 at 7 00 44 PM" src="https://user-images.githubusercontent.com/80747792/146381397-7aac4d76-3bb0-4171-a9e7-64bb9e31750f.png">
+
 
 * Step 5: The name , password and email can be seen on the console of terminal:
 <img width="829" alt="Screenshot 2021-12-15 at 12 56 58 PM" src="https://user-images.githubusercontent.com/80747792/146142558-c9fdfbe2-d056-4756-87de-b9f6e91e61ea.png">
