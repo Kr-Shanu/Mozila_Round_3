@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/80747792/146380747-25209beb-11ec-4832-
 * Unzip the file.
 * Using the terminal reach out to the directory of the unzipped file using "cd" command.
 * Makesure you have npm installed in your pc.
-* Then type in the termianl "nodemon app.js" or "node app.js" .
+* Then type in the termianl '''nodemon app.js''' or '''node app.js''' .
 * Go to your browser and type in the url section => localhost3000 and you are good to go.
 
 
